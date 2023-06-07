@@ -5,7 +5,7 @@ The user will be asked to insert a token for the API and will then be able to se
 
 ## Preview
 
-https://cloud.pages.thingos.io/connect-mesh-cloud/hcl-example
+https://webapi-example-hcl.cloud.connect-mesh.io/
 
 ## Usage
 
