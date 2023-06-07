@@ -1,0 +1,6 @@
+node_modules
+public.gitlab-ci.yml
+deployment
+yarn-error.log
+public
+.gitlab-ci.yml

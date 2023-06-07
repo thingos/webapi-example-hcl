@@ -1,0 +1,1 @@
+module.exports = '@thingos/prettier-config';
