@@ -7,7 +7,6 @@ import {createInterpolatorWithFallback} from "commons-math-interpolation";
 
 export class Store {
 	public api = 'https://cloud.connect-mesh.io/api/core';
-	//public api = 'https://connect-mesh-dev.tools.thingos.app/api/core';
 
 	public token: string = localStorage.getItem('token') ?? '';
 	public networkId = localStorage.getItem('networkId') ?? null;
