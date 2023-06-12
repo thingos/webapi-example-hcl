@@ -1,6 +1,6 @@
-# Mesh Connect API Example
+# Connect Mesh Web API - HCL Example Application
 
-This example project demonstrates how to use the Mesh Connect API to connect to a mesh network via a gateway and send and receive messages.
+This example project demonstrates how to use the Connect Mesh Web API to connect to a mesh network via a gateway and send and receive messages.
 The user will be asked to insert a token for the API and will then be able to select a network and a group from their account.
 
 ## Preview
